@@ -1,6 +1,6 @@
 Name:		texlive-matrix-skeleton
 Version:	65013
-Release:	1
+Release:	2
 Summary:	A PGF/TikZ library that simplifies working with multiple matrix nodes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matrix-skeleton
