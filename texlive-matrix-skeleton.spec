@@ -3,7 +3,7 @@ Version:	65013
 Release:	2
 Summary:	A PGF/TikZ library that simplifies working with multiple matrix nodes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matrix-skeleton
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/matrix-skeleton
 License:	isc
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matrix-skeleton.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matrix-skeleton.doc.r%{version}.tar.xz
